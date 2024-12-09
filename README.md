@@ -1,8 +1,7 @@
-# Привет, я [Alex]! 👋
+# Hello, my name Alex!👺
 
-## О себе
+## About me
 - 💻 [С++, С, JS, Python]
-## Связаться со мной
 - [tg:fekree0]
 - [discord:0fekree0]
 - [a.shatukha@gmail.com]

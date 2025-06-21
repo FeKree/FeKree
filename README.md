@@ -10,6 +10,5 @@
 <p align='center'>
 I'm 0fekree0.
 </p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
 <h1 align='center'><i>В чем смысл жизни</i></h1>

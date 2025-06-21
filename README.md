@@ -23,7 +23,7 @@
     </h1>
 <hr>
 <h1 align="center">
-        <img src="https://preview.redd.it/dr-stone-really-has-the-best-reaction-pics-v0-t2bqzj0vfp9c1.jpg?width=100&crop=smart&auto=webp&s=f050dd4265fc632078b585ff25822e0d11bfe2b5" alt="Баннер" style="width: 100%; max-width: 1500px;">
+        <img src="https://preview.redd.it/dr-stone-really-has-the-best-reaction-pics-v0-t2bqzj0vfp9c1.jpg?width=640&crop=smart&auto=webp&s=f050dd4265fc632078b585ff25822e0d11bfe2b5" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
 <hr>
 <h1 align='center'><a style='color: purple;'>WTF?!</a></h1>

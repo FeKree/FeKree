@@ -1,6 +1,6 @@
 <h1 align="center">
         <a href="https://t.me/0fekree0" class="telegram-text">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon" width: 32px; height: 32px;>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
             Telegram
         </a>
     </h1>

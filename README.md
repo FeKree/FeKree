@@ -2,6 +2,7 @@
         <a href="https://t.me/0fekree0" class="telegram-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
             Telegram
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
 <h1 align="center">

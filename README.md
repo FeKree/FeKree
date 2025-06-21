@@ -14,9 +14,9 @@
     </h1>
 <h1 align="center">
         <a href="href="https://www.youtube.com/@0fekree0" class="steam-text">
-            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Telegram Icon" class="telegram-icon">
-            Steam
-            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Telegram Icon" class="telegram-icon">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_of_YouTube_%282006-2011%29.svg/32px-Logo_of_YouTube_%282006-2011%29.svg.png" alt="Telegram Icon" class="telegram-icon">
+            YouTube
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_of_YouTube_%282006-2011%29.svg/32px-Logo_of_YouTube_%282006-2011%29.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
 <hr>

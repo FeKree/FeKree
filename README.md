@@ -1,4 +1,4 @@
-<a href="https://t.me/0fekree0" class="telegram-text">t\g:0fekree0</a>
+<h1 align='center'><a href="https://t.me/0fekree0" class="telegram-text">Telegram</a></h1>
 <h1 align='center'>discord:0fekree0</h1>
 
 <h1 align='center'> WTF?!</h1>

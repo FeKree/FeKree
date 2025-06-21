@@ -11,7 +11,7 @@
         </a>
     </h1>
 <h1 align="center">
-        <img src="https://cdn.mos.cms.futurecdn.net/fKoBEfmmShjjj8UschGcLk.jpg" alt="Баннер" style="width: 100%; max-width: 1500px;">
+        <img src="https://media.tenor.com/XddGUKrfU3UAAAAM/ghost-mw2-cod.gif" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
 <h1 align='center'> WTF?!</h1>
 <h1 align='center'><i>В чем смысл жизни</i></h1>

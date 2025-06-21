@@ -1,4 +1,9 @@
-<h1 align='center'><a href="https://t.me/0fekree0" class="telegram-text">Telegram</a></h1>
+<h1 align="center">
+        <a href="https://t.me/0fekree0" class="telegram-text">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
+            Telegram
+        </a>
+    </h1>
 <h1 align='center'><a href="https://steamcommunity.com/id/0fekree0" class="steam-text">Steam</a></h1>
 <h1 align='center'> WTF?!</h1>
 <p align='center'>

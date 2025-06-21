@@ -5,6 +5,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
+<hr>
 <h1 align="center">
         <a href="href="https://steamcommunity.com/id/0fekree0" class="steam-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
@@ -12,6 +13,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
+<hr>
 <h1 align="center">
         <a href="href="https://www.youtube.com/@0fekree0" class="steam-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_of_YouTube_%282006-2011%29.svg/32px-Logo_of_YouTube_%282006-2011%29.svg.png" alt="Telegram Icon" class="telegram-icon">

@@ -21,7 +21,7 @@
 <h2 align='center'><i>В чем смысл жизни</i></h2>
 <h1 align="center">
         <a >
-            <img src="https://static.wikia.nocookie.net/e85c32a7-6049-4e40-8ecf-693556aeec25/scale-to-width/755" alt="Баннер" style="width: 100%; max-width: 1500px;">
+            <img src="https://static.wikia.nocookie.net/e85c32a7-6049-4e40-8ecf-693556aeec25/scale-to-width/755" alt="Баннер" style="width: 50%; max-width: 1500px;">
         </a>
     </h1>
 

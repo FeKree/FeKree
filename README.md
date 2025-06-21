@@ -5,7 +5,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
-<hr>
+<hr style="border-bottom-color: green; border-bottom-width: 1px; border-bottom-style: solid;">
 <h1 align="center">
         <a href="href="https://steamcommunity.com/id/0fekree0" class="steam-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
@@ -13,8 +13,11 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
+<hr>
 <h1 align="center">
         <img src="https://i.imgur.com/FWTiIYM.gif" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
+<hr>
 <h1 align='center'><a style='color: purple;'>WTF?!</a></h1>
 <h2 align='center'><i>В чем смысл жизни</i></h2>
+

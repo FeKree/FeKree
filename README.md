@@ -5,6 +5,14 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
+<style>
+   hr {
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+   }
+  </style>
 <h1 align="center">
         <a href="href="https://steamcommunity.com/id/0fekree0" class="steam-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png" alt="Telegram Icon" class="telegram-icon">

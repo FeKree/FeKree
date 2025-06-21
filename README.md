@@ -15,5 +15,5 @@
 <h1 align="center">
         <img src="https://i.imgur.com/FWTiIYM.gif" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
-<h1 align='center'> WTF?!</h1>
+<h1 align='center' style='color: purple;'>WTF?!</h1>
 <h1 align='center'><i>В чем смысл жизни</i></h1>

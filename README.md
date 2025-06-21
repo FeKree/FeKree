@@ -32,4 +32,5 @@
             <img src="https://static.wikia.nocookie.net/e85c32a7-6049-4e40-8ecf-693556aeec25/scale-to-width/755" alt="Баннер" style="width: 50%; max-width: 1500px;">
         </a>
     </h1>
-### :fire: My Stats :
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FeKree&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hui"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKree&layout=compact&theme=dark&hide_border=true" alt="Top Langs"> </p>
+

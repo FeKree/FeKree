@@ -2,7 +2,7 @@
 <h1 align='center'>discord:0fekree0</h1>
 
 <h1 align='center'> WTF?!</h1>
-<p style="color: blue;" align='center'>
+<p align='center'>
 0fekree0
 </p>
 

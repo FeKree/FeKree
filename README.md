@@ -16,4 +16,4 @@
         <img src="https://i.imgur.com/FWTiIYM.gif" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
 <h1 align='center'><a style='color: purple;'>WTF?!</a></h1>
-<h1 align='center'><i>В чем смысл жизни</i></h1>
+<h2 align='center'><i>В чем смысл жизни</i></h2>

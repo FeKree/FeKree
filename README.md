@@ -29,7 +29,7 @@
 <h1 align="center">
         <a>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png" alt="Telegram Icon" class="telegram-icon">
-            <img src="https://img.icons8.com/fluent/512/javascript.png" alt="Telegram Icon" class="telegram-icon">
+            <img src="https://img.icons8.com/fluent/32/javascript.png" alt="Telegram Icon" class="telegram-icon">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>

@@ -26,6 +26,11 @@
         <img src="https://i.imgur.com/FWTiIYM.gif" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
 <hr>
+<h1 align="center">
+        <a>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png" alt="Telegram Icon" class="telegram-icon">
+        </a>
+    </h1>
 <h1 align='center'><a style='color: purple;'>WTF?!</a></h1>
 <h1 align="center">
         <a >

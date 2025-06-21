@@ -11,7 +11,7 @@
         </a>
     </h1>
 <h1 align="center">
-        <img src="https://img.freepik.com/premium-vector/bright-anime-manga-eyes-with-stars-neon-colors-vector-banner-with-eyes-japanese-girl_647443-941.jpg" alt="Баннер" style="width: 100%; max-width: 1500px;">
+        <img src="https://cdn.mos.cms.futurecdn.net/fKoBEfmmShjjj8UschGcLk.jpg" alt="Баннер" style="width: 100%; max-width: 1500px;">
 </h1>
 <h1 align='center'> WTF?!</h1>
 <h1 align='center'><i>В чем смысл жизни</i></h1>

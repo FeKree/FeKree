@@ -2,7 +2,7 @@
   [![Link](https://img.shields.io/badge/github-roma9302-blue?style=for-the-badge&color=%234925bb)](https://github.com/roma9302?tab=repositories)
   [![Link](https://img.shields.io/badge/discord-roma09099-blue?style=for-the-badge&color=%23ff5733)](https://discordapp.com/users/roma09099/) 
   <h1 align="center">
-        <a href="(https://img.shields.io/badge/TG-roma9302-blue?style=for-the-badge&)](https://t.me/fekree0)" class="telegram-text">
+        <a href="https://t.me/fekree0" class="telegram-text">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
             Telegram
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">

@@ -6,7 +6,6 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
             Telegram
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
-        </a>
     </h1>
 <hr>
 <h1 align="center">

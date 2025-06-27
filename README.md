@@ -32,6 +32,7 @@
             <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/50px-ISO_C%2B%2B_Logo.svg.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://img.icons8.com/fluent/60/javascript.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png" alt="Telegram Icon" class="telegram-icon">
+            <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="Telegram Icon" class="telegram-icon">
         </a>
     </h1>
 <h1 align='center'><a style='color: purple;'>WTF!?</a></h1>

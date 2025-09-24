@@ -31,6 +31,7 @@
             <a style='color: purple;'>Languages</a>
             <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/50px-C_Programming_Language.svg.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/50px-ISO_C%2B%2B_Logo.svg.png" alt="Telegram Icon" class="telegram-icon">
+            <img align="center" src="https://znanierussia.ru/articles/wmedia/wikipedia/commons/thumb/1/19/C_Logo.png/50px-C_Logo.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://img.icons8.com/fluent/60/javascript.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png" alt="Telegram Icon" class="telegram-icon">
             <img align="center" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/50px-Java_logo.svg.png" alt="Telegram Icon" class="telegram-icon">
